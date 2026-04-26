@@ -25,17 +25,6 @@ namespace pizza_Application
                 tLabel.Text += topping + ", \n";
             }
         }
-
-        private void summery_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label8_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Thank you for your order!", "Order Confirmation", MessageBoxButtons.OK, MessageBoxIcon.None);

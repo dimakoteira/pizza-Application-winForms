@@ -152,7 +152,6 @@
             this.cLabel.Size = new System.Drawing.Size(16, 21);
             this.cLabel.TabIndex = 12;
             this.cLabel.Text = "-";
-            this.cLabel.Click += new System.EventHandler(this.label8_Click);
             // 
             // tLabel
             // 
@@ -227,7 +226,6 @@
             this.ForeColor = System.Drawing.Color.CornflowerBlue;
             this.Name = "summery";
             this.Text = "summery";
-            this.Load += new System.EventHandler(this.summery_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

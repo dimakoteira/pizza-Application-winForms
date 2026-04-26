@@ -75,11 +75,11 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
-            this.label3.Font = new System.Drawing.Font("Perfecto Calligraphy - Personal", 60F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Super Funky", 60F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.DarkOrange;
-            this.label3.Location = new System.Drawing.Point(409, 9);
+            this.label3.Location = new System.Drawing.Point(71, 9);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(786, 151);
+            this.label3.Size = new System.Drawing.Size(1105, 160);
             this.label3.TabIndex = 2;
             this.label3.Text = "Make Your Pizza";
             // 
@@ -399,7 +399,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Coral;
+            this.button1.BackColor = System.Drawing.Color.DarkOrange;
             this.button1.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button1.Location = new System.Drawing.Point(762, 661);
@@ -412,7 +412,7 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Coral;
+            this.button2.BackColor = System.Drawing.Color.DarkOrange;
             this.button2.Font = new System.Drawing.Font("Tahoma", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ButtonFace;
             this.button2.Location = new System.Drawing.Point(571, 661);
