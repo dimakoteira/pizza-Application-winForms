@@ -28,6 +28,7 @@ A robust, user-centric desktop application built with **C#** and **.NET Framewor
 
 ### 1. Main Dashboard
 ![Main Dashboard](<img width="1762" height="858" alt="image" src="https://github.com/user-attachments/assets/7e18383b-f9d3-4a27-bc46-40cfcfbef217" />
+
 )
 
 ### 2. Ordering Interface & Pricing Logic
@@ -37,6 +38,7 @@ A robust, user-centric desktop application built with **C#** and **.NET Framewor
 
 ### 3. Final Summary & Confirmation
 ![Summary](<img width="1461" height="737" alt="image" src="https://github.com/user-attachments/assets/222c450d-f948-4d91-a4f5-f7d6a73e5bb3" />
+
 )
 
 ---
@@ -54,6 +56,4 @@ To maintain a professional workflow, the project is organized as follows:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/dimait-eng/pizza-Application.git](https://github.com/dimait-eng/pizza-Application.git)
-   
-   👩‍💻 Developed By
-Dima IT Engineering Student | Passionate about Software Development and Clean Code.
+
